@@ -10,7 +10,7 @@ namespace ITVDN_Essential_Lessons
     {
         static void Main()
         {
-            Console.WriteLine("New Ite");
+            Console.WriteLine("New Item");
         }
     }
 }
