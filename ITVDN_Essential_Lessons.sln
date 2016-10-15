@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITVDN_Essential_Lessons", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5", "Lesson5\Lesson5.csproj", "{DAF7EF3B-1136-4C95-B743-BAA31F22E84F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covariant", "Covariant\Covariant.csproj", "{67580BBA-BEA0-4531-A174-8387D6221CCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DAF7EF3B-1136-4C95-B743-BAA31F22E84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAF7EF3B-1136-4C95-B743-BAA31F22E84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAF7EF3B-1136-4C95-B743-BAA31F22E84F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67580BBA-BEA0-4531-A174-8387D6221CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67580BBA-BEA0-4531-A174-8387D6221CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67580BBA-BEA0-4531-A174-8387D6221CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67580BBA-BEA0-4531-A174-8387D6221CCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
