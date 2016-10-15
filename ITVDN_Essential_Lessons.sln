@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5", "Lesson5\Lesson5.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covariant", "Covariant\Covariant.csproj", "{67580BBA-BEA0-4531-A174-8387D6221CCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params0", "Params0\Params0.csproj", "{709F2681-293C-4913-A755-D1DBA666CDD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params0\Params.csproj", "{709F2681-293C-4913-A755-D1DBA666CDD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001Indexers", "Params1\001Indexers.csproj", "{C70E6FF0-65BB-435E-9431-22F309B76498}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{709F2681-293C-4913-A755-D1DBA666CDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{709F2681-293C-4913-A755-D1DBA666CDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{709F2681-293C-4913-A755-D1DBA666CDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70E6FF0-65BB-435E-9431-22F309B76498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70E6FF0-65BB-435E-9431-22F309B76498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70E6FF0-65BB-435E-9431-22F309B76498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70E6FF0-65BB-435E-9431-22F309B76498}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
