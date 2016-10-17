@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005Indexers", "005Indexers\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006Indexers", "006Indexers\006Indexers.csproj", "{5EDCD669-2CAE-4540-B606-CFE497602F52}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StaticClasses", "StaticClasses", "{A211F05A-E47F-4E83-9ECF-293B00FFE551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001Static", "001Static\001Static.csproj", "{B29D963A-D687-4334-AEFA-19FD1A223132}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,8 +73,15 @@ Global
 		{5EDCD669-2CAE-4540-B606-CFE497602F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EDCD669-2CAE-4540-B606-CFE497602F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EDCD669-2CAE-4540-B606-CFE497602F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29D963A-D687-4334-AEFA-19FD1A223132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29D963A-D687-4334-AEFA-19FD1A223132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29D963A-D687-4334-AEFA-19FD1A223132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29D963A-D687-4334-AEFA-19FD1A223132}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B29D963A-D687-4334-AEFA-19FD1A223132} = {A211F05A-E47F-4E83-9ECF-293B00FFE551}
 	EndGlobalSection
 EndGlobal
