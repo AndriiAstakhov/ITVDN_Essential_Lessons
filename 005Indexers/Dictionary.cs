@@ -24,6 +24,7 @@ namespace _005Indexers
         {
             get
             {
+
                 for (int i = 0; i < key.Length; i++)
                 {
                     if (key[i] == index)
