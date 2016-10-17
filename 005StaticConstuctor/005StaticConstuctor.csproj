@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B29D963A-D687-4334-AEFA-19FD1A223132}</ProjectGuid>
+    <ProjectGuid>{4ADFC3D2-CE54-4B6A-9909-BFC9CCA61590}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_001Static</RootNamespace>
-    <AssemblyName>001Static</AssemblyName>
+    <RootNamespace>_005StaticConstuctor</RootNamespace>
+    <AssemblyName>005StaticConstuctor</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
